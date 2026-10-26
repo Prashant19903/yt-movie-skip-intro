@@ -26,5 +26,15 @@ A smart, lightweight browser extension that adds a Netflix-style **"Skip Intro"*
 
 ---
 
+---
+
 ## ☕ Support the Project
-If this tool saved your time, consider buying me a coffee or supporting via UPI!
+
+Agar is extension ne aapka time bachaya hai aur movie experience behtar banaya hai, to aap mujhe support kar sakte hain:
+
+| 🇮🇳 UPI (India) | 🌍 Global Support |
+| :---: | :---: |
+| **UPI ID:** `motwaniprashant@ybl` <br><br> Scan QR below to donate via GPay / PhonePe / Paytm | [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-yellow.svg?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/your-username) |
+
+<!-- Agar QR code ka image upload karna chahein to niche un-comment karein -->
+<!-- <p align="center"><img src="upi-qr.png" alt="UPI QR" width="200"/></p> -->
